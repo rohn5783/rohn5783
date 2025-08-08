@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **full stack and web3**
 
-- 👨‍💻 All of my projects are available at [https://github.com/rohn5783/portfolio](https://github.com/rohn5783/portfolio)
+- 👨‍💻 All of my projects are available at [https://github.com/rohn5783](https://github.com/rohn5783/portfolio)
 
 - 📫 How to reach me **rohit.n5783@gmail.com**
 
