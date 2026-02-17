@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/rohn5783](https://portfolio-main-lovat-rho.vercel.app/)
 
-- 📫 How to reach me **rohit.n5783@gmail.com**
+- 📫 How to reach me **web3developer.rohit@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
